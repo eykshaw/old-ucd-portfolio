@@ -277,7 +277,7 @@ i {
 /** Preview Images **/
 
 #interiors {
-    background-image: url('{image:Interiors}');
+    background-image: url('/Images/interiors.png');
 }
 
 #sa {
@@ -293,7 +293,7 @@ i {
 }
 
 #graphics {
-    background-image: url('{image:Graphics}');
+    background-image: url('/Images/graphics.png');
 }
 
 #kubo {
@@ -321,7 +321,7 @@ i {
 }
 
 #artwork { 
-    background-image: url('{image:Artwork}');
+    background-image: url('/Images/artwork.png');
 }
 
 #digital {
