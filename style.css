@@ -178,6 +178,7 @@ li {
 body {
     font-family: 'Josefin Sans', 'Helvetica', sans-serif; 
     font-size: 1em; 
+    font-weight: 300; 
     background-color: var(--color-main); 
 }
 
